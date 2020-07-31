@@ -95,6 +95,9 @@ input, select, textarea {
 	body {
 		background: #312450;
 	}
+	.tex {
+	 color: #62508b;
+	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
